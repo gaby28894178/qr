@@ -23,7 +23,7 @@ function App() {
           />
         </div>
         <h1>
-          <span className="title">Historial Clínico del Paciente</span>
+          <span className="title">Historial Clínico </span>
         </h1>
         {/* <hr /> */}
       </header>
